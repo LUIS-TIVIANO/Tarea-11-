@@ -1,0 +1,13 @@
+Se publica la versión **v1.1.0** con guía de contribución y tabla de versiones.
+
+## Cambios principales
+- README.md: Guía de contribución agregada.
+- /docs/versiones.md: Tabla de versiones agregada.
+
+## Trazabilidad
+- Issue: #101
+- Commits:
+  - feat(docs): agregar guía de contribución #101
+  - docs: tabla versiones #101
+- PR: #101
+- Tag: v1.1.0
